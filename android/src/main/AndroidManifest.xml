@@ -1,6 +1,5 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="net.nyx.nyxprinter.nyx_printer">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <queries>
-        <package android:name="net.nyx.printerservice"/>
+        <package android:name="net.nyx.printerservice" />
     </queries>
 </manifest>

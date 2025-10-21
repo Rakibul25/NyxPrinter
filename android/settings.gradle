@@ -1,1 +1,14 @@
-rootProject.name = 'nyx_printer'
+// Gradle settings for the root project - do NOT apply the Flutter plugin here.
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
